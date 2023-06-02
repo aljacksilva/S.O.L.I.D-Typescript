@@ -14,7 +14,7 @@ import {
 import { MessageProtocol } from './classes/interfaces/messagin-protocol';
 import { Order } from './classes/order';
 import { Product } from './classes/product';
-import { ShoppingCart } from './classes/shopping.cart';
+import { ShoppingCart } from './classes/shopping-cart';
 import { Message } from './services/messages';
 import { Persistency } from './services/persistency';
 
